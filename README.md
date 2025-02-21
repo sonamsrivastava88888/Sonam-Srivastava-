@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer working on exciting pro
 - 🔭 I’m currently working on **Machine Learning & AI**
 - 🌱 I’m learning **Web Development & Cloud Computing**
 - 💬 Ask me about **Python, Data Science, and Open Source**
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto: sonamsrivastava88888@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sonam-srivastava-7090669a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🚀 Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
